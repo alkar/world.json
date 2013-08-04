@@ -10,16 +10,20 @@ Format:
   "name": "United States",
   "capital": "Washington",
   "continent": "NA",
-  "currency_name": "America (United States of America) Dollars",
-  "currency_code": "USD",
-  "currency_unicode": "0024",
+  "currency": {
+    "code": "USD",
+    "name": "America (United States of America) Dollars",
+    "unicode": "0024"
+  },
   "languages": [
     "en-US",
     "es-US"
   ],
   "phone_code": "1",
-  "zip_format": "#####-####",
-  "zip_regex": "^\\d{5}(-\\d{4})?$",
+  "zip": {
+    "format": "#####-####",
+    "regex": "^\\d{5}(-\\d{4})?$"
+  },
   "tld": ".us"
 }
 ```
