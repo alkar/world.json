@@ -28,6 +28,5 @@ Format:
 }
 ```
 
-Feel free to download and use, check the [website](http://world.laircorp.org/) for ways to contribute.
+Contributions are more than welcome!
 
-Cheers!
